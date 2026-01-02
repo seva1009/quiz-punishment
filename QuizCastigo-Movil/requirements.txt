@@ -1,0 +1,9 @@
+# Quiz castigo - Dependencias
+# Python 3.7 o superior
+
+# No se necesitan librerías externas para la versión básica
+# Todas las librerías usadas (time, random, os, sys) vienen con Python
+
+# Si en el futuro agregas características, aquí irían:
+# colorama==0.4.6  # Para colores en Windows
+# requests==2.31.0 # Para descargar preguntas de internet

@@ -1,0 +1,9 @@
+# Quiz Punishment - Dependencies
+# Python 3.7 or higher required
+
+# No external libraries needed for basic version
+# All used libraries (time, random, os, sys) come with Python
+
+# For future features, these would go here:
+# colorama==0.4.6  # For colors on Windows
+# requests==2.31.0 # For downloading questions from internet
