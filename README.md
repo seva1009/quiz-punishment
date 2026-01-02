@@ -24,8 +24,4 @@ curl -L https://raw.githubusercontent.com/TU_USUARIO/quiz-punishment/main/englis
 # Versión en español
 curl -L https://raw.githubusercontent.com/TU_USUARIO/quiz-punishment/main/spanish/setup_termux.sh | bash
 
-**Subir este README:**
-```bash
-git add README.md
-git commit -m "Add main README file"
-git push
+
